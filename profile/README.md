@@ -7,12 +7,6 @@
 
 <p><strong>Transformamos la inteligencia artificial en soluciones empresariales prácticas.</strong></p>
 
-<p>
-<a href="./README.md">Español</a> |
-<a href="./README.en.md">English</a> |
-<a href="./README.pt.md">Português</a>
-</p>
-
 <img src="https://img.shields.io/badge/Inteligencia-Artificial-168BFF?style=for-the-badge" alt="Inteligencia Artificial">
 <img src="https://img.shields.io/badge/Automatización-643BFF?style=for-the-badge" alt="Automatización">
 <img src="https://img.shields.io/badge/Innovación-C329F4?style=for-the-badge" alt="Innovación">
